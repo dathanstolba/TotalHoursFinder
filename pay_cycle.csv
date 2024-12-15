@@ -1,0 +1,9 @@
+payableDate,itemID,duration,rateApplied,payout,payType
+"Sep 3, 2024","test","10m 50s","test","$3.61","Task Pay"
+"Sep 3, 2024","test","13m 24s","test","$7.63","Task Pay"
+"Sep 3, 2024","test","13m 44s","test","$4.32","Task Pay"
+"Sep 3, 2024","test","13m 32s","test","$2.91","Task Pay"
+"Sep 3, 2024","test","16m 24s","test","$4.51","Task Pay"
+"Sep 3, 2024","test","18m 35s","test","$5.99","Task Pay"
+"Sep 3, 2024","test","9m 16s","test","$4.56","Task Pay"
+"Sep 3, 2024","test","4m 6s","test","$4.51","Task Pay"
